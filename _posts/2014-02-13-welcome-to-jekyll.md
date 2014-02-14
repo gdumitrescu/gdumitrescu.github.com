@@ -8,5 +8,7 @@ categories: jekyll homepage blog
 
 Welcome to yet another jekyll site =)
 
+Enjoy your stay...
+
 [jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com
